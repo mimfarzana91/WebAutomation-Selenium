@@ -1,0 +1,28 @@
+#store password
+#Tue Dec 13 13:37:55 BDT 2022
+password=a
+baseUrl=https\://djv84sab8ypse.cloudfront.net/login?redirect\=%2Fmy-settings
+forgotpassEmailPass=Qc1234@
+gmailUrl=https\://accounts.google.com/v3/signin/identifier?dsh\=S-1056617318%3A1667810706150279&flowName\=GlifWebSignIn&flowEntry\=ServiceLogin&ifkv\=ARgdvAuavzYbA5g-suzTfqoVNJLAUjcsYFJS8fHxkQOsXv4wPOYFldJRXdm-DqudB3t2dfncYkOX
+userPass1=Qc1234
+//User=with no Organization
+forgotpassEmail=aztestmexpense@gmail.com
+submitterEmail1=mexpense11@gmail.com
+approverPass1=Qc1234
+adminPass2=qc1234
+//Approver=of the organization (Org of QA TEAM)
+adminPass1=Qc1234
+adminPass=Qc1234
+userEmail1=mexpensemlbd@gmail.com
+//Admin=with dummy data
+email=test1@ja.com
+approverEmail1=mexpense33@gmail.com
+approverEmail2=mexpense22@gmail.com
+adminEmail2=sumaiya@monstar-lab.com
+adminEmail1=mexpense11@gmail.comß
+newPassword=Qc1234@
+//Only=one user in a organization (OrgName\: QA ORG1)
+submitterPassword1=Qc1234
+adminEmail=mqa@gmail.com
+//Submitter=of the organization (Org of QA TEAM)
+submitterPass1=Qc1234
